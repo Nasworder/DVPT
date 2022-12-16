@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "dgSpecHash": "ZHqp0+BmTmO9da9iHty7yRNsdvYnbMUjKYleXw0qlmIiLd1+YbvZj/yE/8hFYr7J8CKITkEzQVIGmQJjbDFaMg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\adrqueiros\\Documents\\DVPT\\L1-Exo1-DEPASSEMENT\\L1-Exo1-DEPASSEMENT\\L1-Exo1-DEPASSEMENT\\L1-Exo1-DEPASSEMENT.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\adrqueiros\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\7.0.0\\microsoft.extensions.dependencyinjection.7.0.0.nupkg.sha512",
+    "C:\\Users\\adrqueiros\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\7.0.0\\microsoft.extensions.dependencyinjection.abstractions.7.0.0.nupkg.sha512",
+    "C:\\Users\\adrqueiros\\.nuget\\packages\\microsoft.extensions.logging\\7.0.0\\microsoft.extensions.logging.7.0.0.nupkg.sha512",
+    "C:\\Users\\adrqueiros\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\7.0.0\\microsoft.extensions.logging.abstractions.7.0.0.nupkg.sha512",
+    "C:\\Users\\adrqueiros\\.nuget\\packages\\microsoft.extensions.logging.eventlog\\7.0.0\\microsoft.extensions.logging.eventlog.7.0.0.nupkg.sha512",
+    "C:\\Users\\adrqueiros\\.nuget\\packages\\microsoft.extensions.options\\7.0.0\\microsoft.extensions.options.7.0.0.nupkg.sha512",
+    "C:\\Users\\adrqueiros\\.nuget\\packages\\microsoft.extensions.primitives\\7.0.0\\microsoft.extensions.primitives.7.0.0.nupkg.sha512",
+    "C:\\Users\\adrqueiros\\.nuget\\packages\\system.diagnostics.eventlog\\7.0.0\\system.diagnostics.eventlog.7.0.0.nupkg.sha512",
+    "C:\\Users\\adrqueiros\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
