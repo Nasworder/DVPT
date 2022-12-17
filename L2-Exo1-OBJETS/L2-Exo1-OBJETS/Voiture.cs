@@ -21,12 +21,15 @@ namespace L2_Exo1_OBJETS
 
         public void Avancer()
         {
+            Console.WriteLine("La voiture avance !");
             moteur.ChangerRegime(1000);
         }
 
         public void MettreEnMarche()
         {
+            Console.WriteLine("La voiture démarre !");
             moteur.Demarrer();
         }
+
     }
 }

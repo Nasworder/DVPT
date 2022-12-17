@@ -20,12 +20,13 @@ namespace L2_Exo1_OBJETS
 
         public void Demarrer()
         {
-
+            Console.WriteLine("Le moteur démarre !");
         }
 
         public void ChangerRegime(double value)
         {
             regimeCourant = value;
+            Console.WriteLine("Le moteur tourne à " + regimeCourant + " tours par minute");
         }
     }
 }
