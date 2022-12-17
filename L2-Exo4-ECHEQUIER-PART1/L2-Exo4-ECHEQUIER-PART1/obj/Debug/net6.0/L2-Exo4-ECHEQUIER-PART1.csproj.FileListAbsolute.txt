@@ -1,0 +1,15 @@
+C:\Users\adrqueiros\Documents\DVPT\L2-Exo4-ECHEQUIER-PART1\L2-Exo4-ECHEQUIER-PART1\bin\Debug\net6.0\L2-Exo4-ECHEQUIER-PART1.exe
+C:\Users\adrqueiros\Documents\DVPT\L2-Exo4-ECHEQUIER-PART1\L2-Exo4-ECHEQUIER-PART1\bin\Debug\net6.0\L2-Exo4-ECHEQUIER-PART1.deps.json
+C:\Users\adrqueiros\Documents\DVPT\L2-Exo4-ECHEQUIER-PART1\L2-Exo4-ECHEQUIER-PART1\bin\Debug\net6.0\L2-Exo4-ECHEQUIER-PART1.runtimeconfig.json
+C:\Users\adrqueiros\Documents\DVPT\L2-Exo4-ECHEQUIER-PART1\L2-Exo4-ECHEQUIER-PART1\bin\Debug\net6.0\L2-Exo4-ECHEQUIER-PART1.dll
+C:\Users\adrqueiros\Documents\DVPT\L2-Exo4-ECHEQUIER-PART1\L2-Exo4-ECHEQUIER-PART1\bin\Debug\net6.0\L2-Exo4-ECHEQUIER-PART1.pdb
+C:\Users\adrqueiros\Documents\DVPT\L2-Exo4-ECHEQUIER-PART1\L2-Exo4-ECHEQUIER-PART1\obj\Debug\net6.0\L2-Exo4-ECHEQUIER-PART1.csproj.AssemblyReference.cache
+C:\Users\adrqueiros\Documents\DVPT\L2-Exo4-ECHEQUIER-PART1\L2-Exo4-ECHEQUIER-PART1\obj\Debug\net6.0\L2-Exo4-ECHEQUIER-PART1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\adrqueiros\Documents\DVPT\L2-Exo4-ECHEQUIER-PART1\L2-Exo4-ECHEQUIER-PART1\obj\Debug\net6.0\L2-Exo4-ECHEQUIER-PART1.AssemblyInfoInputs.cache
+C:\Users\adrqueiros\Documents\DVPT\L2-Exo4-ECHEQUIER-PART1\L2-Exo4-ECHEQUIER-PART1\obj\Debug\net6.0\L2-Exo4-ECHEQUIER-PART1.AssemblyInfo.cs
+C:\Users\adrqueiros\Documents\DVPT\L2-Exo4-ECHEQUIER-PART1\L2-Exo4-ECHEQUIER-PART1\obj\Debug\net6.0\L2-Exo4-ECHEQUIER-PART1.csproj.CoreCompileInputs.cache
+C:\Users\adrqueiros\Documents\DVPT\L2-Exo4-ECHEQUIER-PART1\L2-Exo4-ECHEQUIER-PART1\obj\Debug\net6.0\L2-Exo4-ECHEQUIER-PART1.dll
+C:\Users\adrqueiros\Documents\DVPT\L2-Exo4-ECHEQUIER-PART1\L2-Exo4-ECHEQUIER-PART1\obj\Debug\net6.0\refint\L2-Exo4-ECHEQUIER-PART1.dll
+C:\Users\adrqueiros\Documents\DVPT\L2-Exo4-ECHEQUIER-PART1\L2-Exo4-ECHEQUIER-PART1\obj\Debug\net6.0\L2-Exo4-ECHEQUIER-PART1.pdb
+C:\Users\adrqueiros\Documents\DVPT\L2-Exo4-ECHEQUIER-PART1\L2-Exo4-ECHEQUIER-PART1\obj\Debug\net6.0\L2-Exo4-ECHEQUIER-PART1.genruntimeconfig.cache
+C:\Users\adrqueiros\Documents\DVPT\L2-Exo4-ECHEQUIER-PART1\L2-Exo4-ECHEQUIER-PART1\obj\Debug\net6.0\ref\L2-Exo4-ECHEQUIER-PART1.dll
