@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33110.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "L5-Exo3-GESTION", "L5-Exo3-GESTION\L5-Exo3-GESTION.csproj", "{DBA48F58-E76A-4C1D-82B7-E32A2458530C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DBA48F58-E76A-4C1D-82B7-E32A2458530C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DBA48F58-E76A-4C1D-82B7-E32A2458530C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DBA48F58-E76A-4C1D-82B7-E32A2458530C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DBA48F58-E76A-4C1D-82B7-E32A2458530C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7980829A-84EC-414E-8F2F-F8A3D81D27F3}
+	EndGlobalSection
+EndGlobal

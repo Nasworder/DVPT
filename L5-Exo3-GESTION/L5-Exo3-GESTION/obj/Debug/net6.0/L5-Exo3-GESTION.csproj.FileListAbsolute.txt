@@ -1,0 +1,15 @@
+C:\Users\adrqueiros\Documents\DVPT\L5-Exo3-GESTION\L5-Exo3-GESTION\bin\Debug\net6.0\L5-Exo3-GESTION.exe
+C:\Users\adrqueiros\Documents\DVPT\L5-Exo3-GESTION\L5-Exo3-GESTION\bin\Debug\net6.0\L5-Exo3-GESTION.deps.json
+C:\Users\adrqueiros\Documents\DVPT\L5-Exo3-GESTION\L5-Exo3-GESTION\bin\Debug\net6.0\L5-Exo3-GESTION.runtimeconfig.json
+C:\Users\adrqueiros\Documents\DVPT\L5-Exo3-GESTION\L5-Exo3-GESTION\bin\Debug\net6.0\L5-Exo3-GESTION.dll
+C:\Users\adrqueiros\Documents\DVPT\L5-Exo3-GESTION\L5-Exo3-GESTION\bin\Debug\net6.0\L5-Exo3-GESTION.pdb
+C:\Users\adrqueiros\Documents\DVPT\L5-Exo3-GESTION\L5-Exo3-GESTION\obj\Debug\net6.0\L5-Exo3-GESTION.csproj.AssemblyReference.cache
+C:\Users\adrqueiros\Documents\DVPT\L5-Exo3-GESTION\L5-Exo3-GESTION\obj\Debug\net6.0\L5-Exo3-GESTION.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\adrqueiros\Documents\DVPT\L5-Exo3-GESTION\L5-Exo3-GESTION\obj\Debug\net6.0\L5-Exo3-GESTION.AssemblyInfoInputs.cache
+C:\Users\adrqueiros\Documents\DVPT\L5-Exo3-GESTION\L5-Exo3-GESTION\obj\Debug\net6.0\L5-Exo3-GESTION.AssemblyInfo.cs
+C:\Users\adrqueiros\Documents\DVPT\L5-Exo3-GESTION\L5-Exo3-GESTION\obj\Debug\net6.0\L5-Exo3-GESTION.csproj.CoreCompileInputs.cache
+C:\Users\adrqueiros\Documents\DVPT\L5-Exo3-GESTION\L5-Exo3-GESTION\obj\Debug\net6.0\L5-Exo3-GESTION.dll
+C:\Users\adrqueiros\Documents\DVPT\L5-Exo3-GESTION\L5-Exo3-GESTION\obj\Debug\net6.0\refint\L5-Exo3-GESTION.dll
+C:\Users\adrqueiros\Documents\DVPT\L5-Exo3-GESTION\L5-Exo3-GESTION\obj\Debug\net6.0\L5-Exo3-GESTION.pdb
+C:\Users\adrqueiros\Documents\DVPT\L5-Exo3-GESTION\L5-Exo3-GESTION\obj\Debug\net6.0\L5-Exo3-GESTION.genruntimeconfig.cache
+C:\Users\adrqueiros\Documents\DVPT\L5-Exo3-GESTION\L5-Exo3-GESTION\obj\Debug\net6.0\ref\L5-Exo3-GESTION.dll
