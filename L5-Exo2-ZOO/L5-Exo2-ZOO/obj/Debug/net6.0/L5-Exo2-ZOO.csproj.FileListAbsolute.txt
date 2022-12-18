@@ -1,0 +1,15 @@
+C:\Users\adrqueiros\Documents\DVPT\L5-Exo2-ZOO\L5-Exo2-ZOO\bin\Debug\net6.0\L5-Exo2-ZOO.exe
+C:\Users\adrqueiros\Documents\DVPT\L5-Exo2-ZOO\L5-Exo2-ZOO\bin\Debug\net6.0\L5-Exo2-ZOO.deps.json
+C:\Users\adrqueiros\Documents\DVPT\L5-Exo2-ZOO\L5-Exo2-ZOO\bin\Debug\net6.0\L5-Exo2-ZOO.runtimeconfig.json
+C:\Users\adrqueiros\Documents\DVPT\L5-Exo2-ZOO\L5-Exo2-ZOO\bin\Debug\net6.0\L5-Exo2-ZOO.dll
+C:\Users\adrqueiros\Documents\DVPT\L5-Exo2-ZOO\L5-Exo2-ZOO\bin\Debug\net6.0\L5-Exo2-ZOO.pdb
+C:\Users\adrqueiros\Documents\DVPT\L5-Exo2-ZOO\L5-Exo2-ZOO\obj\Debug\net6.0\L5-Exo2-ZOO.csproj.AssemblyReference.cache
+C:\Users\adrqueiros\Documents\DVPT\L5-Exo2-ZOO\L5-Exo2-ZOO\obj\Debug\net6.0\L5-Exo2-ZOO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\adrqueiros\Documents\DVPT\L5-Exo2-ZOO\L5-Exo2-ZOO\obj\Debug\net6.0\L5-Exo2-ZOO.AssemblyInfoInputs.cache
+C:\Users\adrqueiros\Documents\DVPT\L5-Exo2-ZOO\L5-Exo2-ZOO\obj\Debug\net6.0\L5-Exo2-ZOO.AssemblyInfo.cs
+C:\Users\adrqueiros\Documents\DVPT\L5-Exo2-ZOO\L5-Exo2-ZOO\obj\Debug\net6.0\L5-Exo2-ZOO.csproj.CoreCompileInputs.cache
+C:\Users\adrqueiros\Documents\DVPT\L5-Exo2-ZOO\L5-Exo2-ZOO\obj\Debug\net6.0\L5-Exo2-ZOO.dll
+C:\Users\adrqueiros\Documents\DVPT\L5-Exo2-ZOO\L5-Exo2-ZOO\obj\Debug\net6.0\refint\L5-Exo2-ZOO.dll
+C:\Users\adrqueiros\Documents\DVPT\L5-Exo2-ZOO\L5-Exo2-ZOO\obj\Debug\net6.0\L5-Exo2-ZOO.pdb
+C:\Users\adrqueiros\Documents\DVPT\L5-Exo2-ZOO\L5-Exo2-ZOO\obj\Debug\net6.0\L5-Exo2-ZOO.genruntimeconfig.cache
+C:\Users\adrqueiros\Documents\DVPT\L5-Exo2-ZOO\L5-Exo2-ZOO\obj\Debug\net6.0\ref\L5-Exo2-ZOO.dll
