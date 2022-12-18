@@ -1,0 +1,15 @@
+C:\Users\adrqueiros\Documents\DVPT\L5-Exo1-VOITURE\L5-Exo1-VOITURE\bin\Debug\net6.0\L5-Exo1-VOITURE.exe
+C:\Users\adrqueiros\Documents\DVPT\L5-Exo1-VOITURE\L5-Exo1-VOITURE\bin\Debug\net6.0\L5-Exo1-VOITURE.deps.json
+C:\Users\adrqueiros\Documents\DVPT\L5-Exo1-VOITURE\L5-Exo1-VOITURE\bin\Debug\net6.0\L5-Exo1-VOITURE.runtimeconfig.json
+C:\Users\adrqueiros\Documents\DVPT\L5-Exo1-VOITURE\L5-Exo1-VOITURE\bin\Debug\net6.0\L5-Exo1-VOITURE.dll
+C:\Users\adrqueiros\Documents\DVPT\L5-Exo1-VOITURE\L5-Exo1-VOITURE\bin\Debug\net6.0\L5-Exo1-VOITURE.pdb
+C:\Users\adrqueiros\Documents\DVPT\L5-Exo1-VOITURE\L5-Exo1-VOITURE\obj\Debug\net6.0\L5-Exo1-VOITURE.csproj.AssemblyReference.cache
+C:\Users\adrqueiros\Documents\DVPT\L5-Exo1-VOITURE\L5-Exo1-VOITURE\obj\Debug\net6.0\L5-Exo1-VOITURE.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\adrqueiros\Documents\DVPT\L5-Exo1-VOITURE\L5-Exo1-VOITURE\obj\Debug\net6.0\L5-Exo1-VOITURE.AssemblyInfoInputs.cache
+C:\Users\adrqueiros\Documents\DVPT\L5-Exo1-VOITURE\L5-Exo1-VOITURE\obj\Debug\net6.0\L5-Exo1-VOITURE.AssemblyInfo.cs
+C:\Users\adrqueiros\Documents\DVPT\L5-Exo1-VOITURE\L5-Exo1-VOITURE\obj\Debug\net6.0\L5-Exo1-VOITURE.csproj.CoreCompileInputs.cache
+C:\Users\adrqueiros\Documents\DVPT\L5-Exo1-VOITURE\L5-Exo1-VOITURE\obj\Debug\net6.0\L5-Exo1-VOITURE.dll
+C:\Users\adrqueiros\Documents\DVPT\L5-Exo1-VOITURE\L5-Exo1-VOITURE\obj\Debug\net6.0\refint\L5-Exo1-VOITURE.dll
+C:\Users\adrqueiros\Documents\DVPT\L5-Exo1-VOITURE\L5-Exo1-VOITURE\obj\Debug\net6.0\L5-Exo1-VOITURE.pdb
+C:\Users\adrqueiros\Documents\DVPT\L5-Exo1-VOITURE\L5-Exo1-VOITURE\obj\Debug\net6.0\L5-Exo1-VOITURE.genruntimeconfig.cache
+C:\Users\adrqueiros\Documents\DVPT\L5-Exo1-VOITURE\L5-Exo1-VOITURE\obj\Debug\net6.0\ref\L5-Exo1-VOITURE.dll
