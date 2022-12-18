@@ -1,0 +1,15 @@
+C:\Users\adrqueiros\Documents\DVPT\L3L4-Exo3-STATEPATTERN\L3L4-Exo3-STATEPATTERN\bin\Debug\net6.0\L3L4-Exo3-STATEPATTERN.exe
+C:\Users\adrqueiros\Documents\DVPT\L3L4-Exo3-STATEPATTERN\L3L4-Exo3-STATEPATTERN\bin\Debug\net6.0\L3L4-Exo3-STATEPATTERN.deps.json
+C:\Users\adrqueiros\Documents\DVPT\L3L4-Exo3-STATEPATTERN\L3L4-Exo3-STATEPATTERN\bin\Debug\net6.0\L3L4-Exo3-STATEPATTERN.runtimeconfig.json
+C:\Users\adrqueiros\Documents\DVPT\L3L4-Exo3-STATEPATTERN\L3L4-Exo3-STATEPATTERN\bin\Debug\net6.0\L3L4-Exo3-STATEPATTERN.dll
+C:\Users\adrqueiros\Documents\DVPT\L3L4-Exo3-STATEPATTERN\L3L4-Exo3-STATEPATTERN\bin\Debug\net6.0\L3L4-Exo3-STATEPATTERN.pdb
+C:\Users\adrqueiros\Documents\DVPT\L3L4-Exo3-STATEPATTERN\L3L4-Exo3-STATEPATTERN\obj\Debug\net6.0\L3L4-Exo3-STATEPATTERN.csproj.AssemblyReference.cache
+C:\Users\adrqueiros\Documents\DVPT\L3L4-Exo3-STATEPATTERN\L3L4-Exo3-STATEPATTERN\obj\Debug\net6.0\L3L4-Exo3-STATEPATTERN.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\adrqueiros\Documents\DVPT\L3L4-Exo3-STATEPATTERN\L3L4-Exo3-STATEPATTERN\obj\Debug\net6.0\L3L4-Exo3-STATEPATTERN.AssemblyInfoInputs.cache
+C:\Users\adrqueiros\Documents\DVPT\L3L4-Exo3-STATEPATTERN\L3L4-Exo3-STATEPATTERN\obj\Debug\net6.0\L3L4-Exo3-STATEPATTERN.AssemblyInfo.cs
+C:\Users\adrqueiros\Documents\DVPT\L3L4-Exo3-STATEPATTERN\L3L4-Exo3-STATEPATTERN\obj\Debug\net6.0\L3L4-Exo3-STATEPATTERN.csproj.CoreCompileInputs.cache
+C:\Users\adrqueiros\Documents\DVPT\L3L4-Exo3-STATEPATTERN\L3L4-Exo3-STATEPATTERN\obj\Debug\net6.0\L3L4-Exo3-STATEPATTERN.dll
+C:\Users\adrqueiros\Documents\DVPT\L3L4-Exo3-STATEPATTERN\L3L4-Exo3-STATEPATTERN\obj\Debug\net6.0\refint\L3L4-Exo3-STATEPATTERN.dll
+C:\Users\adrqueiros\Documents\DVPT\L3L4-Exo3-STATEPATTERN\L3L4-Exo3-STATEPATTERN\obj\Debug\net6.0\L3L4-Exo3-STATEPATTERN.pdb
+C:\Users\adrqueiros\Documents\DVPT\L3L4-Exo3-STATEPATTERN\L3L4-Exo3-STATEPATTERN\obj\Debug\net6.0\L3L4-Exo3-STATEPATTERN.genruntimeconfig.cache
+C:\Users\adrqueiros\Documents\DVPT\L3L4-Exo3-STATEPATTERN\L3L4-Exo3-STATEPATTERN\obj\Debug\net6.0\ref\L3L4-Exo3-STATEPATTERN.dll

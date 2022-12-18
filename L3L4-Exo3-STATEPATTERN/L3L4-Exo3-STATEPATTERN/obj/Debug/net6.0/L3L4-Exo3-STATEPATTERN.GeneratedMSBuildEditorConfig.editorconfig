@@ -1,0 +1,11 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = L3L4_Exo3_STATEPATTERN
+build_property.ProjectDir = C:\Users\adrqueiros\Documents\DVPT\L3L4-Exo3-STATEPATTERN\L3L4-Exo3-STATEPATTERN\
