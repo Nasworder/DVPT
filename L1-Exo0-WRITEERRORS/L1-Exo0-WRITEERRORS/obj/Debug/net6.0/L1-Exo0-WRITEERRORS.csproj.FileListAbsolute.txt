@@ -1,0 +1,15 @@
+C:\Users\adrqueiros\Documents\DVPT\L1-Exo0-WRITEERRORS\L1-Exo0-WRITEERRORS\bin\Debug\net6.0\L1-Exo0-WRITEERRORS.exe
+C:\Users\adrqueiros\Documents\DVPT\L1-Exo0-WRITEERRORS\L1-Exo0-WRITEERRORS\bin\Debug\net6.0\L1-Exo0-WRITEERRORS.deps.json
+C:\Users\adrqueiros\Documents\DVPT\L1-Exo0-WRITEERRORS\L1-Exo0-WRITEERRORS\bin\Debug\net6.0\L1-Exo0-WRITEERRORS.runtimeconfig.json
+C:\Users\adrqueiros\Documents\DVPT\L1-Exo0-WRITEERRORS\L1-Exo0-WRITEERRORS\bin\Debug\net6.0\L1-Exo0-WRITEERRORS.dll
+C:\Users\adrqueiros\Documents\DVPT\L1-Exo0-WRITEERRORS\L1-Exo0-WRITEERRORS\bin\Debug\net6.0\L1-Exo0-WRITEERRORS.pdb
+C:\Users\adrqueiros\Documents\DVPT\L1-Exo0-WRITEERRORS\L1-Exo0-WRITEERRORS\obj\Debug\net6.0\L1-Exo0-WRITEERRORS.csproj.AssemblyReference.cache
+C:\Users\adrqueiros\Documents\DVPT\L1-Exo0-WRITEERRORS\L1-Exo0-WRITEERRORS\obj\Debug\net6.0\L1-Exo0-WRITEERRORS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\adrqueiros\Documents\DVPT\L1-Exo0-WRITEERRORS\L1-Exo0-WRITEERRORS\obj\Debug\net6.0\L1-Exo0-WRITEERRORS.AssemblyInfoInputs.cache
+C:\Users\adrqueiros\Documents\DVPT\L1-Exo0-WRITEERRORS\L1-Exo0-WRITEERRORS\obj\Debug\net6.0\L1-Exo0-WRITEERRORS.AssemblyInfo.cs
+C:\Users\adrqueiros\Documents\DVPT\L1-Exo0-WRITEERRORS\L1-Exo0-WRITEERRORS\obj\Debug\net6.0\L1-Exo0-WRITEERRORS.csproj.CoreCompileInputs.cache
+C:\Users\adrqueiros\Documents\DVPT\L1-Exo0-WRITEERRORS\L1-Exo0-WRITEERRORS\obj\Debug\net6.0\L1-Exo0-WRITEERRORS.dll
+C:\Users\adrqueiros\Documents\DVPT\L1-Exo0-WRITEERRORS\L1-Exo0-WRITEERRORS\obj\Debug\net6.0\refint\L1-Exo0-WRITEERRORS.dll
+C:\Users\adrqueiros\Documents\DVPT\L1-Exo0-WRITEERRORS\L1-Exo0-WRITEERRORS\obj\Debug\net6.0\L1-Exo0-WRITEERRORS.pdb
+C:\Users\adrqueiros\Documents\DVPT\L1-Exo0-WRITEERRORS\L1-Exo0-WRITEERRORS\obj\Debug\net6.0\L1-Exo0-WRITEERRORS.genruntimeconfig.cache
+C:\Users\adrqueiros\Documents\DVPT\L1-Exo0-WRITEERRORS\L1-Exo0-WRITEERRORS\obj\Debug\net6.0\ref\L1-Exo0-WRITEERRORS.dll

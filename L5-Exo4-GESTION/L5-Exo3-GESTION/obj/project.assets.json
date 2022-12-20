@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\adrqueiros\\Documents\\DVPT\\L5-Exo3-GESTION\\L5-Exo3-GESTION\\L5-Exo3-GESTION.csproj",
+      "projectUniqueName": "C:\\Users\\adrqueiros\\Documents\\DVPT\\L5-Exo4-GESTION\\L5-Exo3-GESTION\\L5-Exo3-GESTION.csproj",
       "projectName": "L5-Exo3-GESTION",
-      "projectPath": "C:\\Users\\adrqueiros\\Documents\\DVPT\\L5-Exo3-GESTION\\L5-Exo3-GESTION\\L5-Exo3-GESTION.csproj",
+      "projectPath": "C:\\Users\\adrqueiros\\Documents\\DVPT\\L5-Exo4-GESTION\\L5-Exo3-GESTION\\L5-Exo3-GESTION.csproj",
       "packagesPath": "C:\\Users\\adrqueiros\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\adrqueiros\\Documents\\DVPT\\L5-Exo3-GESTION\\L5-Exo3-GESTION\\obj\\",
+      "outputPath": "C:\\Users\\adrqueiros\\Documents\\DVPT\\L5-Exo4-GESTION\\L5-Exo3-GESTION\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
