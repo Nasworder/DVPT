@@ -1,0 +1,17 @@
+C:\Users\adrqueiros\Documents\DVPT\WeatherAPI\WeatherAPI\bin\Debug\net7.0\WeatherAPI.exe
+C:\Users\adrqueiros\Documents\DVPT\WeatherAPI\WeatherAPI\bin\Debug\net7.0\WeatherAPI.deps.json
+C:\Users\adrqueiros\Documents\DVPT\WeatherAPI\WeatherAPI\bin\Debug\net7.0\WeatherAPI.runtimeconfig.json
+C:\Users\adrqueiros\Documents\DVPT\WeatherAPI\WeatherAPI\bin\Debug\net7.0\WeatherAPI.dll
+C:\Users\adrqueiros\Documents\DVPT\WeatherAPI\WeatherAPI\bin\Debug\net7.0\WeatherAPI.pdb
+C:\Users\adrqueiros\Documents\DVPT\WeatherAPI\WeatherAPI\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\adrqueiros\Documents\DVPT\WeatherAPI\WeatherAPI\obj\Debug\net7.0\WeatherAPI.csproj.AssemblyReference.cache
+C:\Users\adrqueiros\Documents\DVPT\WeatherAPI\WeatherAPI\obj\Debug\net7.0\WeatherAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\adrqueiros\Documents\DVPT\WeatherAPI\WeatherAPI\obj\Debug\net7.0\WeatherAPI.AssemblyInfoInputs.cache
+C:\Users\adrqueiros\Documents\DVPT\WeatherAPI\WeatherAPI\obj\Debug\net7.0\WeatherAPI.AssemblyInfo.cs
+C:\Users\adrqueiros\Documents\DVPT\WeatherAPI\WeatherAPI\obj\Debug\net7.0\WeatherAPI.csproj.CoreCompileInputs.cache
+C:\Users\adrqueiros\Documents\DVPT\WeatherAPI\WeatherAPI\obj\Debug\net7.0\WeatherAPI.csproj.CopyComplete
+C:\Users\adrqueiros\Documents\DVPT\WeatherAPI\WeatherAPI\obj\Debug\net7.0\WeatherAPI.dll
+C:\Users\adrqueiros\Documents\DVPT\WeatherAPI\WeatherAPI\obj\Debug\net7.0\refint\WeatherAPI.dll
+C:\Users\adrqueiros\Documents\DVPT\WeatherAPI\WeatherAPI\obj\Debug\net7.0\WeatherAPI.pdb
+C:\Users\adrqueiros\Documents\DVPT\WeatherAPI\WeatherAPI\obj\Debug\net7.0\WeatherAPI.genruntimeconfig.cache
+C:\Users\adrqueiros\Documents\DVPT\WeatherAPI\WeatherAPI\obj\Debug\net7.0\ref\WeatherAPI.dll

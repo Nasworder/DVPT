@@ -1,0 +1,20 @@
+﻿<Window x:Class="L7_Musiciens.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:L7_Musiciens"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <Button Content="Button" HorizontalAlignment="Left" Height="0" Margin="377,510,0,0" VerticalAlignment="Top"/>
+        <CheckBox x:Name="ckPianist" Content="Pianiste" HorizontalAlignment="Left" Margin="90,72,0,0" VerticalAlignment="Top"/>
+        <CheckBox x:Name="ckDrummer" Content="Batteur" HorizontalAlignment="Left" Margin="90,162,0,0" VerticalAlignment="Top" Height="15"/>
+        <CheckBox x:Name="ckGuitarist" Content="Guitariste" HorizontalAlignment="Left" Margin="235,72,0,0" VerticalAlignment="Top"/>
+        <CheckBox x:Name="ckSinger" Content="Chanteur" HorizontalAlignment="Left" Margin="235,162,0,0" VerticalAlignment="Top"/>
+        <CheckBox x:Name="ckBassist" Content="Bassiste" HorizontalAlignment="Left" Margin="90,231,0,0" VerticalAlignment="Top"/>
+        <Button x:Name="btnPlay" Content="Jouer" HorizontalAlignment="Left" Margin="90,317,0,0" VerticalAlignment="Top" Click="btnPlay_Click" Width="216" Height="27"/>
+        <TextBlock x:Name="txtRes" HorizontalAlignment="Left" Margin="536,80,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Height="248" Width="212"/>
+
+    </Grid>
+</Window>

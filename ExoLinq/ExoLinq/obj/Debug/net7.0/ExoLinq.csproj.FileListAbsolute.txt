@@ -1,0 +1,15 @@
+C:\Users\adrqueiros\Documents\DVPT\ExoLinq\ExoLinq\bin\Debug\net7.0\ExoLinq.exe
+C:\Users\adrqueiros\Documents\DVPT\ExoLinq\ExoLinq\bin\Debug\net7.0\ExoLinq.deps.json
+C:\Users\adrqueiros\Documents\DVPT\ExoLinq\ExoLinq\bin\Debug\net7.0\ExoLinq.runtimeconfig.json
+C:\Users\adrqueiros\Documents\DVPT\ExoLinq\ExoLinq\bin\Debug\net7.0\ExoLinq.dll
+C:\Users\adrqueiros\Documents\DVPT\ExoLinq\ExoLinq\bin\Debug\net7.0\ExoLinq.pdb
+C:\Users\adrqueiros\Documents\DVPT\ExoLinq\ExoLinq\obj\Debug\net7.0\ExoLinq.csproj.AssemblyReference.cache
+C:\Users\adrqueiros\Documents\DVPT\ExoLinq\ExoLinq\obj\Debug\net7.0\ExoLinq.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\adrqueiros\Documents\DVPT\ExoLinq\ExoLinq\obj\Debug\net7.0\ExoLinq.AssemblyInfoInputs.cache
+C:\Users\adrqueiros\Documents\DVPT\ExoLinq\ExoLinq\obj\Debug\net7.0\ExoLinq.AssemblyInfo.cs
+C:\Users\adrqueiros\Documents\DVPT\ExoLinq\ExoLinq\obj\Debug\net7.0\ExoLinq.csproj.CoreCompileInputs.cache
+C:\Users\adrqueiros\Documents\DVPT\ExoLinq\ExoLinq\obj\Debug\net7.0\ExoLinq.dll
+C:\Users\adrqueiros\Documents\DVPT\ExoLinq\ExoLinq\obj\Debug\net7.0\refint\ExoLinq.dll
+C:\Users\adrqueiros\Documents\DVPT\ExoLinq\ExoLinq\obj\Debug\net7.0\ExoLinq.pdb
+C:\Users\adrqueiros\Documents\DVPT\ExoLinq\ExoLinq\obj\Debug\net7.0\ExoLinq.genruntimeconfig.cache
+C:\Users\adrqueiros\Documents\DVPT\ExoLinq\ExoLinq\obj\Debug\net7.0\ref\ExoLinq.dll
