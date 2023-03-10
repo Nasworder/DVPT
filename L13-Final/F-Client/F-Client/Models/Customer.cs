@@ -4,9 +4,8 @@ namespace F_Client.Models
 {
     public class Customer
     {
-        [StringLength(5,MinimumLength = 5)]
         public string CustomerId { get; set; } = null!;
-
+        [StringLength(5)]
         public string CompanyName { get; set; } = null!;
 
         public string? ContactName { get; set; }
